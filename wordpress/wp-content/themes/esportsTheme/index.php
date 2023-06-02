@@ -9,10 +9,12 @@
 </head>
 
 <body>
+    <?php wp_head(); ?>
     <?php wp_nav_menu(array('theme_location' => 'header-menu')); ?>
     <?php echo get_the_title(); ?>
        
     <?php get_header() ?> 
+   
 
     <?php get_footer(); ?>
 
