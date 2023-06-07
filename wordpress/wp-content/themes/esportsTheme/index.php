@@ -14,7 +14,7 @@
 
     
 
-    <div class="container"><?php echo get_the_content();?></div>
+    <?php echo get_the_content();?>
 
     <?php wp_footer(); ?>   
 </body>

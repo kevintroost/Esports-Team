@@ -54,3 +54,8 @@ a {
     margin: 0px;
 }
 
+/* ------------------------ */
+
+.wp-block-colomn p{
+    max-width: 50ch;;
+}
