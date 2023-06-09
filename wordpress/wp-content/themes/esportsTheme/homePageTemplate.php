@@ -13,12 +13,9 @@
 <body>
 
     <?php wp_nav_menu() ?>
-    
-    <div class="content-container">
-        <?php echo get_the_content(); ?>    
-    <div>
 
-    <?php get_footer() ?>
+
+    <?php wp_footer() ?>
 
 </body>
 
