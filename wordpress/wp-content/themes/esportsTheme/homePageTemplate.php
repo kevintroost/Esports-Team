@@ -14,7 +14,8 @@
 
     <?php wp_nav_menu() ?>
 
-
+    <img class="logo" src="<?php echo get_template_directory_uri(); ?>/img/backgroundimg.jpg" alt="apex_logo">
+   
     <?php wp_footer() ?>
 
 </body>
