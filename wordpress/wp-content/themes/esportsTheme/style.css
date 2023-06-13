@@ -6,7 +6,7 @@ body {
 }
 
 /* navbar */
-ul.menu {
+ul.menu {  
     list-style-type: none;
     margin: 16px;
     padding: 16px;
@@ -60,6 +60,29 @@ a {
     
 }
 
+.newstab{
+    max-width: 50ch;
+}
+
+menu-item-31{
+    padding: 16px;
+}
+
+menu-item-35{
+    padding: 16px;
+}
+
+menu-item-162{
+    padding: 16px;
+}
+
+menu-item-43{
+    padding: 16px;
+}
+
+menu-item-47{
+    padding: 16px;
+}
 
 
 
