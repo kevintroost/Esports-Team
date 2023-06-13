@@ -13,7 +13,7 @@
     <?php wp_head(); ?>
 
     <?php echo the_content();?>
-    
+
 
     <?php wp_footer(); ?>   
 </body>
