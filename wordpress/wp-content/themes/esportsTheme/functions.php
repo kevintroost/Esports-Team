@@ -1,5 +1,5 @@
 <?php
-require 'conn.php';
+
 // awdahfhaigh
 add_action("wp_enqueue_scripts", "loadCss");
 function loadCss()
