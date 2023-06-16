@@ -8,15 +8,15 @@ body {
 /* navbar */
 ul.menu {  
     list-style-type: none;
-    margin: 16px;
-    padding: 16px;
+    margin: 0px;
+    padding: 18px;
     padding-left: 0px;
     overflow: hidden;
     background-color: #131316;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     color: white;
-    font-size: 18px;
+    font-size: 16px;
 
 
 }
@@ -77,7 +77,7 @@ menu-item-162{
 }
 
 menu-item-43{
-    padding: 16px;
+    width: 100px;
 }
 
 menu-item-47{
