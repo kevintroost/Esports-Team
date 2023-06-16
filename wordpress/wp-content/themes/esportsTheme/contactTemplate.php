@@ -14,10 +14,10 @@
 <body>
     <?php wp_head(); ?>
     
-    <main>
+    <main class="mainContainer">
         <div class="hidden">
             <section class="contactsSection">
-                <div class="contact-box">
+                <!-- <div class="contact-box"> -->
                     <form class="form-box">
                         <h1>Contact me<span class="textColorChange">.</span></h1>
                         <input type="text" class="input-field" placeholder="First name" name='firstname' autofocus>
@@ -27,7 +27,7 @@
                            name='message' required></textarea>
                         <input type="submit" class="send-message-button" value="Send message">
                     </form>
-                </div>
+                    <!-- </div> -->
             </section>
         </div>
     </main>   

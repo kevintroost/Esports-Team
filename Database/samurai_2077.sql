@@ -21,6 +21,10 @@ SET time_zone = "+00:00";
 -- Database: `samurai_2077`
 --
 
+CREATE DATABASE IF NOT EXISTS `samurai_2077` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `samurai_2077`;
+
+
 -- --------------------------------------------------------
 
 --
